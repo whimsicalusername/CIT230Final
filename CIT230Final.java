@@ -1,10 +1,3 @@
-/**
- * Nikki Middleton
- * CIT230
- * Professor Reynolds
- * Final
- * 15 December 2020
- */
 package cit230.pkgfinal;
 
 import java.util.*;
