@@ -12,7 +12,7 @@ public abstract class Piece {
 
     public abstract void placePiece();
 
-    public abstract boolean direction(int posX, int posY, int toPosX, int toPosY);
+    public abstract boolean direction(int sRow, int sCol, int dRow, int dCol);
     
     public abstract int value();
 }
